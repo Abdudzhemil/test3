@@ -17,7 +17,7 @@ public class readingToFile {
         int num;
 
         int[] ipSvoy = new int[4];
-        System.out.println("kk");
+        System.out.println("Tochno hochesh?????");
         System.out.println("Vvedite vash IP adress");
         Scanner scanner = new Scanner(System.in);
         for (int i = 0; i < 4; i++) {
